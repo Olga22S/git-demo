@@ -2,6 +2,3 @@ Second line of the song
 
 More lines here
 I love git!
-
-Near, far, wherever you are
-I believe that the heart does go on
