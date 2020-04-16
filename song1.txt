@@ -1,2 +1,4 @@
-Текст песни тут
 Second line of the song
+
+More lines here
+I love git!
